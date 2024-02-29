@@ -1,0 +1,31 @@
+repo_name: 2lambda123/weedNet
+report_id: 64013e9633a8b8b6b3a6db43ba8fa4a9
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:13:14+00:00'
+requested_by: inkyusa
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: MATLAB
+  description: A high-level language and interactive environment for numerical computation,
+    visualization, and programming
+  website_url: http://www.mathworks.com/products/matlab/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg
+  detection_source_url: https://github.com/2lambda123/weedNet
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/weedNet
+  detection_source: Repo Metadata
